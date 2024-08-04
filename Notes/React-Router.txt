@@ -1,0 +1,14 @@
+Notes on React-Router-Dom
+
+1. import { Link , NavLink } from 'react-router-dom'
+2. we will not use a tag - as a tag refresh the whole page 
+and react mein refresh wala concept hee nhi hai
+3. Link and NavLink - NavLink providde some additional benifits
+
+
+
+
+
+
+NavLink k andar className {} -> javasript k andar {()=>`isme class likhi hai`}
+kyu likha hai aaur karna hai kae baar
